@@ -4,4 +4,4 @@ _ebook
 env
 venv
 site
-_pycache_
+_pycache_/
